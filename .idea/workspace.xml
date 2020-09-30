@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2273773b-79be-4393-bbf0-7bfc535729bd" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/scripts/test_login.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="157" lean-forward="true" selection-start-line="157" selection-end-line="157" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/page/login_page.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="310" column="8" selection-start-line="310" selection-start-column="8" selection-end-line="310" selection-end-column="8" />
+              <folding>
+                <element signature="e#15#24#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/login_data.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2496">
+              <caret line="204" column="21" lean-forward="true" selection-start-line="204" selection-start-column="21" selection-end-line="204" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/base/base_webaction.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="218">
+              <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/exercise.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="e#0#22#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>assertif: &quot;0&quot;</find>
+      <find>hover:  &quot;1&quot;</find>
+      <find>.a1-left.a-grey.fs12</find>
+      <find>hover:  &quot;6&quot;</find>
+      <find>assertif: &quot;1&quot;</find>
+      <find>&quot;html/body/div[1]/div[1]/div[1]/div[3]/div[4]/a&quot;</find>
+      <find>test_Account_Jump</find>
+      <find>安全设置页【邮箱绑定】【修改】按钮</find>
+      <find>去验证</find>
+      <find>&quot;.//*[@id='pageVender']/div/div/div/div[2]/ul/li[2]/p[4]/a&quot;</find>
+      <find>test_Safety_Jump05</find>
+      <find>&amp;</find>
+      <find>提现</find>
+      <find>.iconfont.icon-xincard</find>
+      <find>html/body/div[1]/div[1]/div[1]/div[3]/div[1]/ul/li[4]/a</find>
+      <find>.maxText.mg_rig3</find>
+      <find>test_Verified</find>
+      <find>test_HyConsole_Jump</find>
+      <find>.close-btn.close-btn-led</find>
+      <find>test_Safety_Jump</find>
+      <find>test_Safety_Jump03</find>
+      <find>test_Verified_Jump03</find>
+      <find>test_Verified_Jump</find>
+      <find>test_Verified_Jump05</find>
+      <find>test_login_dl</find>
+      <find>test_Hy_Login_Jump</find>
+      <find>.username</find>
+      <find>#toReg</find>
+      <find>test_Login_Jump</find>
+      <find>#repassword</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/scripts/test.py" />
+        <option value="$PROJECT_DIR$/scripts/exercise.py" />
+        <option value="$PROJECT_DIR$/base/base_webaction.py" />
+        <option value="$PROJECT_DIR$/data/login_data.yml" />
+        <option value="$PROJECT_DIR$/page/login_page.py" />
+        <option value="$PROJECT_DIR$/scripts/test_login.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="30" />
+    <option name="y" value="50" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectId" id="1dsjfwCvKuH0c9dZWMnlr1XQ7Bg" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="python_web_onlinexinnet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_web_onlinexinnet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_web_onlinexinnet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_web_onlinexinnet" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_web_onlinexinnet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_web_onlinexinnet" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.exercise">
+    <configuration name="exercise" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_web_xinnet" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/exercise.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_login.TestLogin.test_HyConsole_Jump" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="python_web_xinnet" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_login.TestLogin.test_HyConsole_Jump&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_login.TestLogin.test_Login" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="python_web_xinnet" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_login.TestLogin.test_Login&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_login.TestLogin.test_Login.test_login" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="python_web_xinnet" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_login.TestLogin.test_Login.test_login&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.exercise" />
+        <item itemvalue="Python tests.pytest for test_login.TestLogin.test_HyConsole_Jump" />
+        <item itemvalue="Python tests.pytest for test_login.TestLogin.test_Login" />
+        <item itemvalue="Python tests.pytest for test_login.TestLogin.test_Login.test_login" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2273773b-79be-4393-bbf0-7bfc535729bd" name="Default Changelist" comment="" />
+      <created>1593220801797</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593220801797</updated>
+      <workItem from="1593220803287" duration="1755000" />
+      <workItem from="1593222595869" duration="1792000" />
+      <workItem from="1593224699489" duration="1777000" />
+      <workItem from="1593226510562" duration="1789000" />
+      <workItem from="1593228321266" duration="1757000" />
+      <workItem from="1593230441215" duration="1787000" />
+      <workItem from="1593232365065" duration="1515000" />
+      <workItem from="1593233902197" duration="448000" />
+      <workItem from="1593234445995" duration="969000" />
+      <workItem from="1593253429325" duration="1786000" />
+      <workItem from="1593255238489" duration="1789000" />
+      <workItem from="1593257061519" duration="1790000" />
+      <workItem from="1593258877123" duration="253000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_for_test_login_TestLogin_test_HyConsole_Jump - 2020.06.30 at 08h 54m 15s.xml">
+      <configuration name="pytest for test_login.TestLogin.test_HyConsole_Jump" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_login_TestLogin_test_HyConsole_Jump - 2020.07.03 at 11h 58m 27s.xml">
+      <configuration name="pytest for test_login.TestLogin.test_HyConsole_Jump" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22457068" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32956153" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.37057993" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1593229064886">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1593229064886" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1593227478664">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593227478664" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1593227478664">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593227478664" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1593227478659">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593227478659" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1593227478664">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593227478664" />
+    <state x="272" y="57" key="SettingsEditor" timestamp="1593222167604">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="272" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1593222167604" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1593221287996">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1593221287996" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/python_web_xinnet$pytest_for_test_login_TestLogin_test_Login.coverage" NAME="pytest for test_login.TestLogin.test_Login Coverage Results" MODIFIED="1593227472748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
+    <SUITE FILE_PATH="coverage/python_web_xinnet$pytest_for_test_login_TestLogin_test_Login_test_login.coverage" NAME="pytest for test_login.TestLogin.test_Login.test_login Coverage Results" MODIFIED="1593225758852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/screen/标题_进入HY通过手机重置密码.png" />
+    <entry file="file://$PROJECT_DIR$/screen/标题_进入HY立即注册新网账号.png" />
+    <entry file="file://$PROJECT_DIR$/../python3.7.6/Lib/site-packages/selenium/webdriver/support/expected_conditions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="59" column="8" selection-start-line="59" selection-start-column="8" selection-end-line="59" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screen/test_HyConsole_Jump_020.png" />
+    <entry file="file://$PROJECT_DIR$/screen/test_HyConsole_Jump_031.png" />
+    <entry file="file://$PROJECT_DIR$/base/base_yml.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screen/test_HyConsole_Jump_033.png" />
+    <entry file="file://$PROJECT_DIR$/screen/test_HyConsole_Jump_034.png" />
+    <entry file="file://$PROJECT_DIR$/screen/test_login_002.png" />
+    <entry file="file://$PROJECT_DIR$/screen/test_login_003.png" />
+    <entry file="file://$PROJECT_DIR$/screen/test_login_004.png" />
+    <entry file="file://$PROJECT_DIR$/../python3.7.6/Lib/site-packages/yaml/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="113" selection-start-line="113" selection-end-line="113" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screen/test_HyConsole_Jump_035.png" />
+    <entry file="file://$PROJECT_DIR$/screen/test_HyConsole_Jump_036.png" />
+    <entry file="file://$PROJECT_DIR$/screen/test_Account_Jump05.png" />
+    <entry file="file://$PROJECT_DIR$/screen/test_login_001.png" />
+    <entry file="file://$PROJECT_DIR$/screen/test_Hy_Login_Jump01.png" />
+    <entry file="file://$PROJECT_DIR$/screen/test_HyConsole_Jump_001.png" />
+    <entry file="file://$PROJECT_DIR$/screen/test_Account_modify01.png" />
+    <entry file="file://$PROJECT_DIR$/screen/test_Account_Jump02.png" />
+    <entry file="file://$PROJECT_DIR$/screen/test_HyConsole_Jump_015.png" />
+    <entry file="file://$PROJECT_DIR$/screen/test_HyConsole_Jump_013.png" />
+    <entry file="file://$PROJECT_DIR$/screen/test_Safety_Jump06.png" />
+    <entry file="file://$PROJECT_DIR$/screen/test_Safety_Jump08.png" />
+    <entry file="file://$PROJECT_DIR$/screen/test_HyConsole_Jump_019.png" />
+    <entry file="file://$PROJECT_DIR$/scripts/exercise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pytest.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/base_webaction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/login_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="310" column="8" selection-start-line="310" selection-start-column="8" selection-end-line="310" selection-end-column="8" />
+          <folding>
+            <element signature="e#15#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/login_data.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2496">
+          <caret line="204" column="21" lean-forward="true" selection-start-line="204" selection-start-column="21" selection-end-line="204" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/test_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="157" lean-forward="true" selection-start-line="157" selection-end-line="157" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
